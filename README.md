@@ -38,3 +38,8 @@
 |        |                           | [문자열로 변환](./Programmers/tranning_DAY_22/03.js)                                 |
 |        |                           | [배열의 원소 삭제하기](./Programmers/tranning_DAY_22/04.js)                          |
 |        |                           | [부분 문자열인지 확인하기](./Programmers/tranning_DAY_22/05.js)                      |
+| DAY 23 | 조건문 활용               | [부분 문자열](./Programmers/tranning_DAY_23/01.js)                                   |
+|        |                           | [꼬리 문자열](./Programmers/tranning_DAY_23/02.js)                                   |
+|        |                           | [정수 찾기](./Programmers/tranning_DAY_23/03.js)                                     |
+|        |                           | [주사위 게임1](./Programmers/tranning_DAY_23/04.js)                                  |
+|        |                           | [날짜 비교하기](./Programmers/tranning_DAY_23/05.js)                                 |
