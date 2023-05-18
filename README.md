@@ -48,3 +48,7 @@
 |        |                                               | [조건에 맞게 수열 변환하기 3](./Programmers/tranning_DAY_24/03.js)                   |
 |        |                                               | [I로 만들기](./Programmers/tranning_DAY_24/04.js)                                    |
 |        |                                               | [특별한 이차원 배열 1](./Programmers/tranning_DAY_24/05.js)                          |
+| DAY 25 | 이차원 리스트(배열)                           | [정수를 나선형으로 배치하기](./Programmers/tranning_DAY_25/01.js)                    |
+|        |                                               | [특별한 이차원 배열 2](./Programmers/tranning_DAY_25/02.js)                          |
+|        |                                               | [정사각형 만들기](./Programmers/tranning_DAY_25/03.js)                               |
+|        |                                               | [이차원 배열 대각선 순회하기](./Programmers/tranning_DAY_25/04.js)                   |
